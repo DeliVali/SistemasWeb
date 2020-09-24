@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scañe=1.0">
+        <title>Esto es algo visible para el usuario </title>
+        <body>
+            <div>
+                <div>
+                    <div>
+                        <div>
+                            <h2 style="color: aqua;">hola mundo!</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni aliquam voluptatibus enim mollitia fugit neque numquam nesciunt. Laborum alias quam porro distinctio. Ipsa ipsum, accusantium dolorem iste beatae vel aut.</p>
+                            <p><a href="">aceptar</a><a href="">cancelar</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </body>
+    </head>
+</html>
